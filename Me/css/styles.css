@@ -1,0 +1,156 @@
+/*
+COLOR PALETTE
+https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
+#F7FFF7 - almost white
+#343434 - dark gray - almost black
+#2F3061 - blue dark
+#FFE66D - yellow
+#A1C6D7 - blue light
+*/
+
+
+/* Global styles
+------------------------------------*/
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  color: #F1F4FFFF
+  ;
+  margin: 0;
+  padding: 0;
+  font-family: 'Champagne&Limousines';
+  font-size: 15px;
+  line-height: 1.5;
+}
+img {
+  width: 300px;
+}
+a {
+  color: #051622;
+}
+a:hover {
+  text-decoration: none;
+}
+h1 {
+  font-size: 100px;
+  line-height: 1;
+}
+h2 {
+  font-size: 45px;
+}
+h1, h2 {
+  font-family: 'Champagne&Limousines';
+  font-weight: 400;
+  margin: 0;
+}
+.content-wrap {
+  max-width: 800px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+h3 {
+  margin-bottom: 0;
+}
+.item-details h3 + p {
+  font-style: italic;
+}
+.item-details h3 ~ p {
+  margin: 0;
+}
+.divider > section {
+  border-bottom: 1px dashed #F1F4FFFF;
+  padding: 25px 0;
+}
+.divider > section:last-of-type {
+  border-bottom: none;
+}
+
+
+/* Profile
+------------------------------------*/
+header {
+  background: #F1F4FFFF
+  ;
+  color: #A2A2A1FF;
+}
+
+
+/* Projects
+------------------------------------*/
+.projects {
+  background: #A2A2A1FF;
+}
+.projects a {
+  color: #F1F4FFFF;
+}
+.projects .btn {
+  color: #F1F4FFFF;
+  background: #B46088;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.projects .btn:hover {
+  background: #FCC25A;
+}
+.project-item {
+  overflow: hidden;
+}
+.project-item h3 {
+  margin-top: 0;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work-experience .btn {
+  color: #A2A2A1FF;
+  background: #F1F4FFFF;
+  padding: 10px 20px;
+
+  
+
+
+}
+
+
+/* Education
+------------------------------------*/
+.education {
+  background: #F1F4FFFF
+  ;
+  color: #A2A2A1FF;  background: #F1F4FFFF
+  ;
+  color: #A2A2A1FF;
+}
+.education p {
+  width: 60%;
+}
+
+
+/* Contact Info
+------------------------------------*/
+footer {
+  color: #F1F4FFFF;
+  background: #A2A2A1FF;
+}
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+}
+.contact-list a {
+  padding: 15px;
+  display: inline-block;
+}
+
+
+
+
+
