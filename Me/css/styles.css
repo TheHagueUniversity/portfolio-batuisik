@@ -134,12 +134,19 @@ header {
   width: 60%;
 }
 
+/* Skills
+------------------------------------*/
+.skills {
+  background: #A2A2A1FF;
+  color: #F1F4FFFF;
+}
+
 
 /* Contact Info
 ------------------------------------*/
 footer {
-  color: #F1F4FFFF;
-  background: #A2A2A1FF;
+  color: #A2A2A1FF ;
+  background: #F1F4FFFF;
 }
 .contact-list {
   list-style-type: none;
