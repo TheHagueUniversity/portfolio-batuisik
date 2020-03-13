@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <ul>
+      <li><a href="index.html"><img src="house.png" width="100" height="100";></a></li>
+      <li><a href="projects.html"><img src="folder.png" width="100" height="100";> </a></li>
+      <li><a href="education.html"><img src="vision.png" width="100" height="100"></a></li>
+      <li><a href="skill.html"><img src="skill.png" width="100" height="100";></a></li>
+    </ul>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <link href="https://www.dafont.com/champagne-limousines.font" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
