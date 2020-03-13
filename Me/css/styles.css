@@ -62,7 +62,7 @@ img {
 
 }
 a {
-  color: #051622;
+  color: #000000;
 }
 a:hover {
   text-decoration: none;
@@ -95,7 +95,7 @@ h3 {
   margin: 0;
 }
 .divider > section {
-  border-bottom: 1px dashed #F1F4FFFF;
+  border-bottom: 1px dashed #000000;
   padding: 25px 0;
 }
 .divider > section:last-of-type {
@@ -157,9 +157,9 @@ header {
 .education {
   background: #F1F4FFFF
   ;
-  color: #A2A2A1FF;  background: #F1F4FFFF
+  color: #F1F4FFFF;  background: #A2A2A1FF
   ;
-  color: #A2A2A1FF;
+  color: #F1F4FFFF;
 }
 .education p {
   width: 60%;
