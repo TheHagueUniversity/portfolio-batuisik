@@ -43,7 +43,8 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #111;
+  background-color: #2CCCC3
+;
 }
 
 
@@ -115,21 +116,21 @@ header {
 /* Projects
 ------------------------------------*/
 .projects {
-  background: #A2A2A1FF;
+  background: #181818;
 }
 .projects a {
   color: #F1F4FFFF;
 }
 .projects .btn {
   color: #F1F4FFFF;
-  background: #B46088;
+  background: #5626C4;
   text-decoration: none;
   padding: 8px;
   border-radius: 4px;
   display: inline-block;
 }
 .projects .btn:hover {
-  background: #FCC25A;
+  background: #E60576;
 }
 .project-item {
   overflow: hidden;
@@ -155,7 +156,7 @@ header {
 /* Education
 ------------------------------------*/
 .education {
-  background: #F1F4FFFF
+  background: #181818
   ;
   color: #F1F4FFFF;  background: #A2A2A1FF
   ;
@@ -168,7 +169,7 @@ header {
 /* Skills
 ------------------------------------*/
 .skills {
-  background: #A2A2A1FF;
+  background: #181818;
   color: #F1F4FFFF;
 }
 
