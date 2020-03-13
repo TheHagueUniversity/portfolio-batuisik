@@ -49,7 +49,9 @@ li a:hover {
 ;
 }
 
-
+.center {
+  text-align: center;
+}
 
 body {
   color: #F1F4FFFF
@@ -61,7 +63,6 @@ body {
   line-height: 1.5;
 }
 img {
-  max-width: 300px;
 
 }
 a {
@@ -83,7 +84,6 @@ h1, h2 {
   margin: 0;
 }
 .content-wrap {
-  max-width: 800px;
   width: 85%;
   margin: 10;
   padding: 50px 50px;
