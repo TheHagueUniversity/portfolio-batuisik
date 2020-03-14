@@ -20,11 +20,17 @@ html {
   .div2 { grid-area: 2 / 1 / 5 / 3; }
   .div3 { grid-area: 2 / 3 / 5 / 5; }
 
+  .div1 {
+    margin: 0;
+    padding: 190px;
+background-color: #000000;
+
+  }
 
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 50px;
   overflow: hidden;
   background-color: #000000;
 }
@@ -69,7 +75,7 @@ a {
   color: #000000;
 }
 a:hover {
-  text-decoration: none;
+  text-decoration: white;
 }
 h1 {
   font-size: 100px;
@@ -98,8 +104,8 @@ h3 {
   margin: 0;
 }
 .divider > section {
-  border-bottom: 1px dashed #000000;
-  padding: 25px 0;
+  border-bottom: 1px dashed #F1F4FFFF;
+  padding: 100px 100px;
 }
 .divider > section:last-of-type {
   border-bottom: none;
